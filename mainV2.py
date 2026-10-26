@@ -28,7 +28,6 @@ def deduct_resources(choice_drink):
         hoeveelheid = waarde
         resources[ingredient]["quantity"] -= hoeveelheid
 
-print("Test")
 
 # TODO: 1. Make an input function for the choice
 continue_dispensing = True
